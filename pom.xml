@@ -192,7 +192,7 @@
 <dependency>
     <groupId>org.apache.activemq</groupId>
     <artifactId>activemq-camel</artifactId>
-    <version>5.10.2</version>
+    <version>5.15.0</version>
 </dependency>
 
 
@@ -343,66 +343,66 @@
 <dependency>
     <groupId>org.apache.camel</groupId>
     <artifactId>camel-core</artifactId>
-    <version>2.13.4</version>
+    <version>2.17.5</version>
 </dependency>
 
 <dependency>
     <groupId>org.apache.camel</groupId>
     <artifactId>camel-ftp</artifactId>
-    <version>2.13.4</version>
+    <version>2.17.5</version>
 </dependency>
 
 
 <dependency>
     <groupId>org.apache.camel</groupId>
     <artifactId>camel-jaxb</artifactId>
-    <version>2.13.4</version>
+    <version>2.17.5</version>
 </dependency>
 
 <dependency>
     <groupId>org.apache.camel</groupId>
     <artifactId>camel-jms</artifactId>
-    <version>2.13.4</version>
+    <version>2.17.5</version>
 </dependency>
 
 
 <dependency>
     <groupId>org.apache.camel</groupId>
     <artifactId>camel-mail</artifactId>
-    <version>2.13.4</version>
+    <version>2.17.5</version>
 </dependency>
 
 
 <dependency>
     <groupId>org.apache.camel</groupId>
     <artifactId>camel-quartz</artifactId>
-    <version>2.13.4</version>
+    <version>3.0.0</version>
 </dependency>
 
 <dependency>
     <groupId>org.apache.camel</groupId>
     <artifactId>camel-quartz2</artifactId>
-    <version>2.13.4</version>
+    <version>2.17.5</version>
 </dependency>
 
 
 <dependency>
     <groupId>org.apache.camel</groupId>
     <artifactId>camel-spring</artifactId>
-    <version>2.13.4</version>
+    <version>2.17.5</version>
 </dependency>
 
 
 <dependency>
     <groupId>org.apache.camel</groupId>
     <artifactId>camel-spring</artifactId>
-    <version>2.13.4</version>
+    <version>2.17.5</version>
 </dependency>
 
 <dependency>
     <groupId>org.apache.camel</groupId>
     <artifactId>camel-zipfile</artifactId>
-    <version>2.13.4</version>
+    <version>2.17.5</version>
 </dependency>
 
 
