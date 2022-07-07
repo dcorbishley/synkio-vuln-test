@@ -1360,14 +1360,14 @@
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-expression</artifactId>
-    <version>3.2.11.RELEASE</version>
+    <version>5.2.21.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-expression -->
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-expression</artifactId>
-    <version>4.3.16.RELEASE</version>
+    <version>5.2.21.RELEASE</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/io.springfox/springfox-core -->
